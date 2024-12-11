@@ -1,0 +1,68 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "qweStaffing (Debug)",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/main.dart",
+            "args": [
+                "--flavor",
+                "qwe"
+            ]
+        },
+        {
+            "name": "asdResourcing (Debug)",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/main.dart",
+            "args": [
+                "--flavor",
+                "asd"
+            ]
+        },
+        {
+            "name": "zxcTempAgency (Debug)",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/main.dart",
+            "args": [
+                "--flavor",
+                "zxc"
+            ]
+        },
+        {
+            "name": "qweStaffing",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/main.dart",
+            "args": [
+                "--flavor",
+                "qwe"
+            ],
+            "preLaunchTask": "Prepare Assets for qwe"
+        },
+        {
+            "name": "asdResourcing",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/main.dart",
+            "args": [
+                "--flavor",
+                "asd"
+            ],
+            "preLaunchTask": "Prepare Assets for asd"
+        },
+        {
+            "name": "zxcTempAgency",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/main.dart",
+            "args": [
+                "--flavor",
+                "zxc"
+            ],
+            "preLaunchTask": "Prepare Assets for zxc"
+        }
+    ]
+}

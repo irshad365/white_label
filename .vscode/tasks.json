@@ -1,0 +1,20 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Prepare Assets for qwe",
+            "type": "shell",
+            "command": "./build.sh qwe"
+        },
+        {
+            "label": "Prepare Assets for asd",
+            "type": "shell",
+            "command": "./build.sh asd"
+        },
+        {
+            "label": "Prepare Assets for zxc",
+            "type": "shell",
+            "command": "./build.sh zxc"
+        }
+    ]
+}
