@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:white_label/client_switch.dart';
 
 class AppDefaultColors {
-  static const boredScaffoldGrey = Color(0xFFF4F4F4);
+  static const scaffoldGrey = Color(0xFFF4F4F4);
 }
 
 ThemeData baseTheme({required Brightness brightness}) {
@@ -33,7 +33,7 @@ ThemeData baseTheme({required Brightness brightness}) {
 
   return ThemeData(
     colorScheme: colorScheme,
-    scaffoldBackgroundColor: AppDefaultColors.boredScaffoldGrey,
+    scaffoldBackgroundColor: AppDefaultColors.scaffoldGrey,
     useMaterial3: true,
     cardTheme: cardTheme,
     elevatedButtonTheme: elevatedButtonTheme,

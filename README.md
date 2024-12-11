@@ -1,16 +1,26 @@
-# white_label
+# White Label App
 
-A new Flutter project.
+Welcome to the White Label App! This application has customized client builds from the same codebase. Each client application can have different features enabled or disabled based on specific requirements.
+
+## Features
+
+- **Customizable Client Applications**: Generate unique client applications from a single codebase.
+- **Feature Flags**: Control the availability of features for each client application. Not all clients will have access to all features, allowing for tailored experiences.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get started with the White Label App, you need to set up your development environment. Follow the instructions in the [Flutter Setup Guide](https://flutter.dev/docs/get-started/install) to install Flutter and configure your system.
 
-A few resources to get you started if this is your first Flutter project:
+## Contributing
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+We welcome contributions! Please read our [contributing guidelines](CONTRIBUTING.md) for more information.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any questions or feedback, please contact us at support@whitelabelapp.com.
+
+Enjoy building your customized client applications!
