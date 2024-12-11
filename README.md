@@ -4,7 +4,11 @@ Welcome to the White Label App! This application has customized client builds fr
 
 
 
-https://github.com/user-attachments/assets/c6ad7ece-9825-42c9-a222-1b92ae151759
+
+https://github.com/user-attachments/assets/d318a6c2-1c47-4bf7-b592-3f0e450cc475
+
+
+
 
 
 
