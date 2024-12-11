@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:white_label/home.dart';
+import 'package:white_label/home/home.dart';
 import 'package:white_label/theme.dart';
 
 void main() {
@@ -16,7 +16,7 @@ class WhiteLabeledApp extends StatelessWidget {
       theme: baseTheme(brightness: Brightness.light),
       darkTheme: baseTheme(brightness: Brightness.dark),
       themeMode: ThemeMode.system,
-      home: const MyHomePage(title: 'Flutter Demo Home Page'),
+      home: const MyHomePage(),
     );
   }
 }

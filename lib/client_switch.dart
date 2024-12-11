@@ -22,6 +22,7 @@ class ClientSwitch {
 }
 
 abstract class ClientProtocol {
+  int get id;
   String get title;
   Color get color;
   String get iconPath;
@@ -36,6 +37,9 @@ class QweStaffing implements ClientProtocol {
 
   @override
   String get iconPath => 'assets/qwe/images/icon.png';
+
+  @override
+  int get id => 1;
 }
 
 class AsdResourcing implements ClientProtocol {
@@ -47,6 +51,9 @@ class AsdResourcing implements ClientProtocol {
 
   @override
   String get iconPath => 'assets/asd/images/icon.png';
+
+  @override
+  int get id => 2;
 }
 
 class ZxcTempAgency implements ClientProtocol {
@@ -58,4 +65,7 @@ class ZxcTempAgency implements ClientProtocol {
 
   @override
   String get iconPath => 'assets/zxc/images/icon.png';
+
+  @override
+  int get id => 3;
 }
