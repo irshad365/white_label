@@ -2,6 +2,12 @@
 
 Welcome to the White Label App! This application has customized client builds from the same codebase. Each client application can have different features enabled or disabled based on specific requirements.
 
+
+
+https://github.com/user-attachments/assets/c6ad7ece-9825-42c9-a222-1b92ae151759
+
+
+
 ## Features
 
 - **Customizable Client Applications**: Generate unique client applications from a single codebase.
